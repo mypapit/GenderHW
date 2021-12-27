@@ -33,6 +33,7 @@ result = gender.predict();
 
 ```
 
-## Demo
+## Demo (HTML5 / Javascript)
+Please visit https://demo.mobilepit.com/ai/GenderHW/ for a live HTML5 / Javascript demonstration.
 
 
