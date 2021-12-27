@@ -3,7 +3,8 @@ GenderHW: a gender prediction programming library for Java/Javascript
 
 ## How to cite
 If you use this library in your project, writing or both, please cite this work as (APA-style):
-Ismail, M. H. (2021). GenderHW: a gender prediction programming library for Java/Javascript. Retrieved DATE, YEAR, from: https://github.com/mypapit/GenderHW/
+
+_Ismail, M. H. (2021). GenderHW: a gender prediction programming library for Java/Javascript. Retrieved DATE, YEAR, from: https://github.com/mypapit/GenderHW/_
 
 ## Usage (with Confidence Factor)
 ```
