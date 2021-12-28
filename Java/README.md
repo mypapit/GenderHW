@@ -20,3 +20,6 @@ probability = result.getProbability();
 
 System.out.println ("Probability : " + probability);
 ```
+
+## Demo Screenshot
+![Demo Screenshot](https://github.com/mypapit/GenderHW/blob/main/Java/image.png)
