@@ -4,7 +4,8 @@ GenderHW: a gender prediction programming library for Java/Javascript
 ## How to cite
 If you use this library in your project or work, please cite this as (APA-style):
 
-_Ismail, M. H. (2021). GenderHW: a gender prediction programming library for Java/Javascript. Retrieved DATE, YEAR, from: https://github.com/mypapit/GenderHW/_
+_Ismail, M. H. (2021). GenderHW: a gender prediction programming library for Java/Javascript. Retrieved DATE, YEAR, from: https://github.com/mypapit/GenderHW/_. . https://doi.org/10.5281/zenodo.5847665
+
 
 ## Use Case 
 This library can useful in situation where gender prediction based on height/weight can be useful to enhance user-experience. Among them:
